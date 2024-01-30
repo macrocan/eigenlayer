@@ -1,7 +1,7 @@
 {
-  "name": "macro",
+  "name": "hello",
   "website": "http://hello.com",
   "description": "restaking!!!",
-  "logo": "",
-  "twitter": ""
+  "logo": "https://www.example.com/logo.png",
+  "twitter": "https://x.com/example"
 }
